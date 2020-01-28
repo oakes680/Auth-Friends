@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.border1 {
+ 
+  display: flex;
+  width: 70%;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  justify-content: space-around
+}
+
+.border2 {
+  border: 1px solid #333;
+  width: 30%;
+  margin-bottom: 50px;
+}
